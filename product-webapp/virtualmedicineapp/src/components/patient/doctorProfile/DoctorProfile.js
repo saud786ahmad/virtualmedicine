@@ -7,7 +7,7 @@ import './DoctorProfile.css'
 import Scheduler from './Schedulers';
 
 
-const host = "https://virtualmedicine.stackroute.io";
+const host = "http://18.191.151.223:8080";
 
 export default function DoctorProfile(props) {
 
